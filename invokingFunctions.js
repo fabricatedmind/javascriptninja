@@ -18,3 +18,5 @@ ninja.skulk('Hattori');
 //ninja = new Ninja('Hattori1');
 //skulk.call(ninja, 'Hattori2');
 //skulk.apply(ninja, ['Hattori3']);
+
+//blahblah
