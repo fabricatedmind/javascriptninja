@@ -12,4 +12,4 @@ var emperor = new Emperor();
 var test = emperor === puppet;
 console.log("emperor === puppet: "+test);
 
-console.log("EMPEROR.RULES: "+emperor.rules);
+console.log("EMPEROR.RULES: "+emperor.rules); 
